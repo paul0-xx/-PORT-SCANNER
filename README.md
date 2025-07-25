@@ -1,2 +1,3 @@
 # -PORT-SCANNER
-Basic port Scanner interminal
+Basic port Scanner in terminal
+code
